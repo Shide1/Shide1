@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bruno, but my friends usually call me by my IGN, so i just basically use it everywhere.
+- 👀 I’m interested in learning new things, thats why i'm actually trying to learn how to code.
+- 🌱 I’m currently learning the basics, like HTML and HTML5 but after this i'm going to study JavaScript.
+- 📫 You can talk to me on my Twitter (@bnoru1) or on my Discord (Shide#2136).
